@@ -194,7 +194,7 @@ border-width: 1px;
         transform: rotate(360deg);
     }
 }
-.france{
+.france,.cameroun{
     display: flex;
     width: 100vw;
     height: 100vh;
@@ -210,4 +210,12 @@ border-width: 1px;
 .rouge{
     flex: 1;
     background-color:red;
+}
+.vert{
+    flex: 1;
+    background-color: rgb(2, 71, 2);
+}
+.jaune{
+    flex: 1;
+    background-color: yellow;
 }
